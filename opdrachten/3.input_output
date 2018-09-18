@@ -1,0 +1,6 @@
+gains = input("hoeveel verdien je?")
+hours = input("hoeveel uur breng je door?")
+timegains = hours * gains
+print ("wat verdien je per uur: "+ str(gains))
+print ("Hoeveel uur heb je gewerkt: " + str(hours))
+print (str(hours) + " uur werken levert 1" + str(timegains) + ' op')

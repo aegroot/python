@@ -1,0 +1,3 @@
+naam = "mark rutte"
+plaats = "den haag"
+print ("mijn naam is " + naam + 'en mijn woonplaats is ' + plaats)

@@ -1,0 +1,6 @@
+score = input("wat is jou score?")
+if (score > 18):
+    print ( "Gefeliciteerd!" )
+
+else:
+    print("je bent niet geslaagd")
