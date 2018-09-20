@@ -5,4 +5,3 @@ for getal in lst:
         # print getal
         deeldoordrie = deeldoordrie + 1
 print deeldoordrie
-,
