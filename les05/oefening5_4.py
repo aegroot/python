@@ -4,5 +4,4 @@ for getal in lst:
     if getal % 3 == 0:
         # print getal
         deeldoordrie = deeldoordrie + 1
-
 print deeldoordrie
