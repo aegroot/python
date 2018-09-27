@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ccd7a-1cad-4fe7-94e4-67ad1cd08829" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les07/oefening7_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les07/voorbeeld7_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +16,14 @@
     <session id="1060551066">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="5" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,21 +40,22 @@
           <entry key="oefening4_4" value="3" />
           <entry key="operator" value="6" />
           <entry key="patch" value="4" />
-          <entry key="py" value="70" />
+          <entry key="py" value="71" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
           <entry key="PATCH" value="4" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="91" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="92" />
           <entry key="Scratch" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="237" />
+          <entry key="Python Console" value="314" />
           <entry key="gsc" value="309" />
           <entry key="if_statement" value="133" />
           <entry key="if_two_booleans" value="146" />
@@ -65,14 +64,14 @@
           <entry key="oefening4_3" value="163" />
           <entry key="oefening4_4" value="142" />
           <entry key="operator" value="50" />
-          <entry key="py" value="4986" />
-          <entry key="txt" value="16" />
+          <entry key="py" value="5066" />
+          <entry key="txt" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="5754" />
+          <entry key="PLAIN_TEXT" value="130" />
+          <entry key="Python" value="5911" />
           <entry key="Scratch" value="753" />
         </counts>
       </usages-collector>
@@ -82,30 +81,21 @@
     <favorites_list name="school" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/les07/oefening7_2.py">
+        <entry file="file://$PROJECT_DIR$/les07/voorbeeld7_5.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/les07/oefening7_3.py">
+        <entry file="file://$PROJECT_DIR$/les07/oefening7_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/les07/oefening7_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -166,11 +156,13 @@
         <option value="$PROJECT_DIR$/les07/oefening7_2.py" />
         <option value="$PROJECT_DIR$/les07/oefening7_4.py" />
         <option value="$PROJECT_DIR$/les07/oefening7_3.py" />
+        <option value="$PROJECT_DIR$/les07/voorbeeld7_5.txt" />
+        <option value="$PROJECT_DIR$/les07/oefening7_5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="211" />
+    <option name="x" value="256" />
     <option name="y" value="23" />
     <option name="width" value="1110" />
     <option name="height" value="689" />
@@ -181,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oefening7_3">
+  <component name="RunManager" selected="Python.oefening7_5">
     <configuration name="5.functie_met_list_parameter_for-loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="school" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,27 +235,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oefening5_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="school" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les05/oefening5_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,20 +306,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="oefening7_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les07/oefening7_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.5.functie_met_list_parameter_for-loops" />
-      <item itemvalue="Python.oefening5_2" />
       <item itemvalue="Python.oefening7_2" />
       <item itemvalue="Python.oefening7_3" />
       <item itemvalue="Python.oefening7_4" />
+      <item itemvalue="Python.oefening7_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oefening7_5" />
         <item itemvalue="Python.oefening7_3" />
         <item itemvalue="Python.oefening7_4" />
         <item itemvalue="Python.oefening7_2" />
         <item itemvalue="Python.5.functie_met_list_parameter_for-loops" />
-        <item itemvalue="Python.oefening5_2" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +473,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="211" y="23" width="1110" height="689" extended-state="0" />
+    <frame x="256" y="23" width="1110" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.25528008" />
@@ -489,14 +481,14 @@
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32936803" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49678603" visible="true" weight="0.32495812" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49586776" visible="true" weight="0.32495812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3835846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998326" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49678603" weight="0.32998326" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50321394" side_tool="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49586776" weight="0.32998326" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5041322" side_tool="true" weight="0.32998326" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49954087" weight="0.32495812" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -725,6 +717,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/les07/oefening7_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/les07/oefening7_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -739,10 +738,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les07/oefening7_3.py">
+    <entry file="file://$PROJECT_DIR$/les07/voorbeeld7_5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/les07/oefening7_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
