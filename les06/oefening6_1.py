@@ -3,5 +3,4 @@ max = -1
 for getal in getallenrij:
     if getal > max:
         max = getal
-
-print max
+print(max)
