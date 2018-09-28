@@ -1,6 +1,6 @@
-paspoort = input("heb jij een paspoort")
-leeftijd = input("wat is jou leeftijd?")
-if (leeftijd> 18) or paspoort=="true":
+paspoort = str(input("heb jij een paspoort"))
+leeftijd = int(input("wat is jou leeftijd?"))
+if (leeftijd > 18) or paspoort == "true":
     print ( "nederlands paspoort: ja" )
     print ("Gefeliciteerd, je mag stemmen!")
 
