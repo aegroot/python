@@ -5,6 +5,4 @@ def lang_genoeg() -> object:
     else:
         print("Sorry, je bent te klein")
     return lang_genoeg()
-
-
 lang_genoeg()
