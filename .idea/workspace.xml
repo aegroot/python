@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="902ccd7a-1cad-4fe7-94e4-67ad1cd08829" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/les07/kaartnummers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les07/kaartnummers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les08/elif_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les08/kaartnummers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les08/oefening8_1.py" afterDir="false" />
+    <list default="true" id="902ccd7a-1cad-4fe7-94e4-67ad1cd08829" name="Default Changelist" comment="oefeningen">
+      <change afterPath="$PROJECT_DIR$/opdrachten/1.decision control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdrachten/3.if/else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdrachten/final_assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdrachten/3.functies met if.py" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten/3.functies met if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten/6.for_if_wovels.py" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten/6.for_if_wovels.py" afterDir="false" />
     </list>
+    <ignored path="les08/kaartnummersuit.txt" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,40 +20,41 @@
     <session id="1060551066">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.5" value="7" />
-          <entry key="project.open.time.6" value="6" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="2" />
-          <entry key="gsc" value="3" />
+          <entry key="gsc" value="4" />
           <entry key="html" value="1" />
           <entry key="if_statement" value="6" />
           <entry key="if_two_booleans" value="5" />
-          <entry key="input_output" value="5" />
+          <entry key="input_output" value="7" />
           <entry key="oefening4_1" value="3" />
           <entry key="oefening4_2" value="3" />
           <entry key="oefening4_3" value="2" />
           <entry key="oefening4_4" value="3" />
           <entry key="operator" value="6" />
           <entry key="patch" value="4" />
-          <entry key="py" value="88" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="107" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
           <entry key="PATCH" value="4" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="110" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="132" />
           <entry key="Scratch" value="14" />
         </counts>
       </usages-collector>
@@ -68,14 +69,14 @@
           <entry key="oefening4_3" value="163" />
           <entry key="oefening4_4" value="142" />
           <entry key="operator" value="50" />
-          <entry key="py" value="6904" />
+          <entry key="py" value="8490" />
           <entry key="txt" value="255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="255" />
-          <entry key="Python" value="7762" />
+          <entry key="Python" value="9348" />
           <entry key="Scratch" value="753" />
         </counts>
       </usages-collector>
@@ -87,10 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/les08/elif_statement.py">
+        <entry file="file://$PROJECT_DIR$/opdrachten/1.decision control.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -154,23 +155,27 @@
         <option value="$PROJECT_DIR$/les07/oefening7_5c.py" />
         <option value="$PROJECT_DIR$/opdrachten/1.functie_drie_parameters.py" />
         <option value="$PROJECT_DIR$/opdrachten/2.functie_met_list_parameter.py" />
-        <option value="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" />
         <option value="$PROJECT_DIR$/opdrachten/6.immutable_parameter.py" />
         <option value="$PROJECT_DIR$/opdrachten/2.if_two_booleans" />
         <option value="$PROJECT_DIR$/opdrachten/4.for_if_string.py" />
         <option value="$PROJECT_DIR$/opdrachten/5.for_if_numbers.py" />
-        <option value="$PROJECT_DIR$/opdrachten/6.for_if_wovels.py" />
         <option value="$PROJECT_DIR$/les07/kaartnummers.txt" />
         <option value="$PROJECT_DIR$/les07/kaartnummers.py" />
         <option value="$PROJECT_DIR$/opdrachten/3.functies met if.py" />
         <option value="$PROJECT_DIR$/les08/kaartnummers.txt" />
         <option value="$PROJECT_DIR$/les08/oefening8_1.py" />
         <option value="$PROJECT_DIR$/les08/elif_statement.py" />
+        <option value="$PROJECT_DIR$/les07/oefening7_5a.py" />
+        <option value="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" />
+        <option value="$PROJECT_DIR$/opdrachten/final_assignment.py" />
+        <option value="$PROJECT_DIR$/opdrachten/6.for_if_wovels.py" />
+        <option value="$PROJECT_DIR$/opdrachten/3.if/else.py" />
+        <option value="$PROJECT_DIR$/opdrachten/1.decision control.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
+    <option name="x" value="253" />
     <option name="y" value="23" />
     <option name="width" value="1110" />
     <option name="height" value="689" />
@@ -181,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,8 +240,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.elif_statement">
-    <configuration name="5.for_if_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.final_assignment">
+    <configuration name="1.decision control" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +253,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/5.for_if_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/1.decision control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.functie_met_list_parameter_for-loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opdrachten" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="elif_statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,11 +312,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opdrachten/3.if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les08/elif_statement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/3.if/else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kaartnummers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="final_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,32 +333,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opdrachten" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les07/kaartnummers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oefening8_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="school" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les08/oefening8_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opdrachten/final_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,19 +347,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5.for_if_numbers" />
+      <item itemvalue="Python.5.functie_met_list_parameter_for-loops" />
+      <item itemvalue="Python.final_assignment" />
       <item itemvalue="Python.6.for_if_wovels" />
-      <item itemvalue="Python.kaartnummers" />
-      <item itemvalue="Python.oefening8_1" />
-      <item itemvalue="Python.elif_statement" />
+      <item itemvalue="Python.else" />
+      <item itemvalue="Python.1.decision control" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.elif_statement" />
-        <item itemvalue="Python.oefening8_1" />
-        <item itemvalue="Python.kaartnummers" />
+        <item itemvalue="Python.final_assignment" />
+        <item itemvalue="Python.1.decision control" />
+        <item itemvalue="Python.else" />
         <item itemvalue="Python.6.for_if_wovels" />
-        <item itemvalue="Python.5.for_if_numbers" />
+        <item itemvalue="Python.5.functie_met_list_parameter_for-loops" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538132911599</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="oefeningen">
+      <created>1538135919997</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1538135919997</updated>
+    </task>
+    <task id="LOCAL-00022" summary="oefeningen">
+      <created>1538136019285</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1538136019286</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -522,14 +541,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="256" y="23" width="1110" height="689" extended-state="0" />
+    <frame x="253" y="23" width="1110" height="689" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.25528008" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.25528008" />
       <window_info id="Structure" order="1" sideWeight="0.5025" side_tool="true" weight="0.24907063" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32936803" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49586776" weight="0.32495812" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49586776" visible="true" weight="0.32495812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3835846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,12 +563,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.25528008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.25528008" />
       <window_info id="Structure" order="1" sideWeight="0.5025" side_tool="true" weight="0.24907063" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32936803" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49586776" visible="true" weight="0.32495812" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49586776" weight="0.32495812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3835846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,15 +593,6 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-    <entry file="file://$PROJECT_DIR$/les04/oefening4_3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -609,13 +620,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oefeningen.patch">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/1.gsc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/les06/oefening6_2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -687,20 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/3.tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/3.input_output">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opdrachten/2.operator">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -736,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/4.funtie_met_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/les07/oefening7_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -769,13 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/les07/oefening7_5a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -807,38 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opdrachten/2.if_two_booleans">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/4.for_if_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/5.for_if_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/6.for_if_wovels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -863,24 +811,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/les08/kaartnummersuit.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/les08/oefening8_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdrachten/3.functies met if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -891,10 +825,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/les07/oefening7_5a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/les08/kaartnummersuit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/5.functie_met_list_parameter_for-loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/final_assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/6.for_if_wovels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/1.gsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/3.functies met if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/3.input_output">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/3.tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/5.for_if_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/4.funtie_met_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/4.for_if_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/3.if/else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/les08/elif_statement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten/1.decision control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>

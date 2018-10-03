@@ -2,5 +2,5 @@ s = "Guido van Rossum heeft programmeertaal Python bedacht."
 s.split(" ")
 print(s)
 for getal in range(len(s)):
-    if "a" == s[getal] or "e" == s[getal] or "i" == s[getal] or "i" == s[getal] or "u" == s[getal]:
+    if "a" == getal or "e" == getal or "i" == getal or "i" == getal or "u" == getal:
         print(s[getal])

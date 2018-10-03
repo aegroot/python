@@ -1,9 +1,11 @@
 
 def kwadraten_som(lst) -> object:
-    getal = 0
+    som = 0
     for getal in lst:
         if getal > 0:
-            getal = getal ** 2
-            print(getal)
-lst = [4, 5, 3, -81]
-kwadraten_som(lst)
+            som = som + getal ** 2
+    return (som)
+
+
+lijst = [4, 5, 3, -81]
+print(kwadraten_som(lijst))
