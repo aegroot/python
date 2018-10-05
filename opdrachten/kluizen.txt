@@ -1,0 +1,12 @@
+1,Hall0,false\n
+2,vais3,false\n
+3,h3lp,false\n
+4,1999,false\n
+5,1980,false\n
+6,kaas,false\n
+7,wachtwoord,false\n
+8,baasje,false\n
+9,hond,false\n
+10,kluis,false\n
+11,slaap,false\n
+12,meerslaapgraag,false\n
